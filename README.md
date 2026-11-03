@@ -20,7 +20,7 @@ Chat, build software and run assistants with any AI model: on your Mac, or with 
 
 ## Every answer leads somewhere
 
-Select any phrase in an answer to go deeper on it, or tap a route like **Go deeper**, **Counterpoint** or **Example**. Every side path stays on the canvas, so you can keep going and come back to any point later.
+Select any phrase in an answer to go deeper on it, or tap a route like **Go deeper**, **Counterpoint** or **Example**. Every side path stays on the canvas, so you can keep going and come back to any point later. Any chat can be read as a thread or seen as a canvas (⌥⌘1 / ⌥⌘2).
 
 <p align="center"><img src="images/canvas.png" alt="The canvas: a map of a conversation with several branches" width="900"></p>
 
@@ -48,7 +48,7 @@ Make images on your Mac with FLUX.2 or Image Playground, or in the cloud. Ask qu
 
 | | |
 |---|---|
-| **Chat** | Branching conversations, ask several models at once, projects, and ⌘K to jump anywhere. |
+| **Chat** | Branching conversations, ask several models at once, projects, and ⌘K to jump anywhere. Answer again, branch or copy the last answer straight from the keyboard. |
 | **Code** | Describe an idea or open a folder. Every change becomes a save point you can go back to, with a live preview beside the thread. |
 | **Assistant** | Assistants you chat with like contacts, with their own memory, folder and voice. Group chats, an inbox for approvals, schedules, and a morning brief. |
 
@@ -60,11 +60,15 @@ There's no Infinity account and no analytics. Chats, settings and the file index
 
 ## Install
 
-1. [Download the latest `Infinity-x.y.z.dmg`](https://github.com/InfinityChat/mac/releases/latest).
+1. [Download the latest `Infinity-x.y.z.zip`](https://github.com/InfinityChat/mac/releases/latest).
 2. Open it and drag **Infinity** into **Applications**.
 3. Open Infinity and pick your models: free ones on your Mac, your own API keys, or both.
 
-Infinity is signed and notarized by Apple. It checks for updates once a day and installs them for you.
+Infinity is signed and notarized by Apple. It checks for updates once a day and installs them when you say so. Check any time with **Infinity ▸ Check for Updates…**, or turn daily checks off in **Settings ▸ General ▸ Updates**.
+
+### Starting over
+
+To wipe chats and settings and see first-run setup again, use **Settings ▸ Developer ▸ Reset Infinity**. Downloaded local models stay, and you can choose to keep your API keys.
 
 ## Feedback
 
@@ -72,4 +76,4 @@ Infinity is in early testing. Use **Help ▸ Send Feedback…** in the app, or e
 
 <br>
 
-<div align="center"><sub>Made by Nik Kotov · Infinity and its icon are trademarks of Nik Kotov.</sub></div>
+<div align="center"><sub>Made by Amp Dynamic · Infinity and its icon are trademarks of Amp Dynamic.</sub></div>
