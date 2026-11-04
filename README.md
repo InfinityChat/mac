@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/InfinityChat/mac/releases/latest"><b>⬇&nbsp; Download for Mac</b></a>
+<a href="https://github.com/InfinityChat/mac/releases/latest/download/Infinity.dmg"><b>⬇&nbsp; Download for Mac</b></a>
 &nbsp;·&nbsp; Free &nbsp;·&nbsp; macOS 14 or newer &nbsp;·&nbsp; Apple silicon and Intel &nbsp;·&nbsp; Now in early testing
 
 <br>
@@ -110,11 +110,11 @@ Read the [privacy note](PRIVACY.md).
 
 <br>
 
-<p align="center"><a href="https://github.com/InfinityChat/mac/releases/latest"><img src="images/download.webp" alt="Keep going. Download for Mac." width="100%"></a></p>
+<p align="center"><a href="https://github.com/InfinityChat/mac/releases/latest/download/Infinity.dmg"><img src="images/download.webp" alt="Keep going. Download for Mac." width="100%"></a></p>
 
 ## Install
 
-1. [Download the latest `Infinity-x.y.z.dmg`](https://github.com/InfinityChat/mac/releases/latest).
+1. [Download Infinity for Mac](https://github.com/InfinityChat/mac/releases/latest/download/Infinity.dmg) (the `.dmg`).
 2. Open it and drag **Infinity** into **Applications**.
 3. Open Infinity and pick your models: free ones on your Mac, your own API keys, or both.
 
