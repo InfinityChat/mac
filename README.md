@@ -95,7 +95,7 @@ All of it is in the app today, free.
 | Charts, tables and checklists | Code, Changes and Terminal | Automations on a schedule | Search your folders by meaning |
 | Tap-to-answer questions | Claude Code, Codex, OpenCode, Pi | Your day, a morning brief | Code runs in a sandbox |
 | Projects, archive, temporary chats | Secrets with Test and Live values | Calls, out loud | Native SwiftUI, light and dark |
-| ⌘K to jump anywhere | Put it live on Vercel, Netlify and more | Teams shared as one file | Updates itself, signed by Apple |
+| ⌘K to jump anywhere | Publish to Vercel, Netlify and more | Teams shared as one file | Updates itself, signed by Apple |
 
 ## Private by default.
 

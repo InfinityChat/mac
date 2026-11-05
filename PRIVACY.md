@@ -29,6 +29,7 @@ Only what a feature you use needs:
 | Use voice with a cloud option | Your recording, or the text to read aloud | OpenAI. Apple voices run on your Mac |
 | Download a model | A normal download request | Hugging Face, Ollama or LM Studio |
 | Let an agent search the web | The search words | DuckDuckGo |
+| Ask for the weather | The place name, then its coordinates | Open-Meteo (open-meteo.com) |
 | Check for updates (once a day) | A request for a small file, with no information about you | Wherever the update feed is hosted |
 | Install an update | A download of the new version, which Infinity checks is signed by the same developer before installing | The same place |
 | Send feedback | Only what you write, the version and Mac details, and the newest crash report, in an email you send yourself | The feedback address |
@@ -37,7 +38,7 @@ Each provider's own privacy policy covers what they do with what you send them.
 
 ## Things to know while testing
 
-- Infinity Code and assistants with **Edits OK** or **Full access** can change files and run commands in the folders you give them. Keep a backup of anything important.
+- Infinity Code and assistants can change files and run commands in the folders you give them. At **Auto** they ask before risky commands; at **Full auto** they never ask. Keep a backup of anything important, and see the [terms](TERMS.md).
 - Secrets you add to a Code project are saved on your Mac and given to your app as environment variables. They're never sent to a model.
 - Deleting a chat moves it to the archive. Delete it from the archive to remove it for good.
 

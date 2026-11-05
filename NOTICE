@@ -1,0 +1,39 @@
+Infinity
+Copyright 2026 Amp Dynamic and the Infinity contributors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The name "Infinity" and the Infinity logo and app icon are trademarks of
+Amp Dynamic and are not licensed under the Apache License. See TRADEMARKS.md.
+
+This product includes:
+- Lucide icons, ISC License (see LICENSE-lucide.txt)
+- Sparkle, for updates, MIT License (https://github.com/sparkle-project/Sparkle)
+
+Models and tools Infinity can download or run
+---------------------------------------------
+Infinity does not include any model weights. When you choose one in Models by job,
+it is downloaded from its publisher and is covered by that publisher's licence:
+
+- FLUX.2 [klein] 4B, Black Forest Labs (Apache License 2.0)
+- Z-Image Turbo, Tongyi-MAI / Alibaba (Apache License 2.0)
+- EmbeddingGemma, Google (Gemma Terms of Use, https://ai.google.dev/gemma/terms)
+- Whisper models via whisper.cpp (MIT License)
+- Models run through Ollama, LM Studio, MLX LM, vLLM, llama.cpp or Jan, and models found in
+  Find models on Hugging Face, under each model's own licence (shown as a badge in Find models).
+  Some of the ones Infinity suggests:
+  - Llama 3.x, Meta (Llama Community License; "Built with Llama")
+  - Gemma 3, Google (Gemma Terms of Use)
+  - Qwen 2.5 and Qwen 3, Alibaba (Apache License 2.0, some sizes under the Qwen License)
+  - Mistral 7B, Mistral AI (Apache License 2.0)
+  - DeepSeek R1, DeepSeek (MIT License)
+  - gpt-oss, OpenAI (Apache License 2.0)
+
+Local engines Infinity can install or start on request, each under its own licence:
+Ollama (MIT), MLX and MLX LM (MIT), vLLM (Apache License 2.0), llama.cpp (MIT).
+
+Local image models run through mflux (MIT License, https://github.com/filipstrand/mflux),
+which Infinity installs with uv on request.
+
+Infinity Assistant ports ideas from OpenMausBot (Apache License 2.0,
+https://github.com/milind-soni/OpenMausBot).
